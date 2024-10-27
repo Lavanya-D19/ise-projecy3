@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>UNIQUE GAME</title>
+</head>
+<body>
+<p><center><h1>*QUAD BEARS*</h1></center></p>
+<p><h2><sub>INSTRUCTIONS:</sub></h2>*PAY AND PLAY(Rs.100)</p>
+<p>*By attending the game itself the player will get 100 points to his pocket,the game is conducted between two people.</p>
+<p>*The overall goal of the game is to score 420 out 420 </p>
+<p>* The Player has to choose the best teddy bear among 4 Teddy bears .That is the reason the name of the game is "QUAD BEARS".</p>
+<p>*Winner will get one teddy bear with the cash back and also Runner up will get half of the amount payed to the game  is reurned to ruunerup</p>
+<p><h2><sub>RULES:</sub></h2>a).If player is able to complete the game in Two minutes i,e in 120 seconds then he/she will be the winnee so tha the other person will be runner up but to become runnerup the 2nd player must and should complete the game 3minutes or else he/she will be losser</p>
+<p>b).*Here conditiond applies as per rule earlier mentioned above</p>
+<p><li>*If player completes the game within 3minutes he/she will secure 200 points,Therefore now totle score is 300 points</li></p>
+<p><li>*Here if player is able complete the game with in two minutes then player will get 120 additonally with 300.so,now toatal score 420 oone who scores 420 out of 420 he/she will be Winner.</li><p>
+<p><li>*If player is completing the game 3minutes then will get only 50 points addtional to 200 points.Now the score is 350 out of 420*you will be left out with another 70 points those points can be scored/secured by finding missing letter in between the given word provided with chossing letters he/she has to completethis task within 120 seconds (2minutes).The word is given to find is related to the Bear .</p>
+<p><sup>#Following are the examples of missing word:</sup><h1></h1>*<li><br>1. [ _ _ n _l _     _ e _r  ]</br></li></p> 
+<p><h2></h2>* <li>2.[ _ _o_ n   _e_ _ y ]</li></p>
+<p><center>ALL THE BEST GUYS PLAY WELL</center></p>
+</body>
+</html>
